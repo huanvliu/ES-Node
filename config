@@ -1,4 +1,0 @@
-const int a;
-int const a;
-const int *c;//const修饰的是指针所指向的内存空间不能修改
-int * const d;//
