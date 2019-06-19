@@ -32,10 +32,11 @@
   - 返回一个迭代器，使用for of 遍历获取结果
   3. 动态导入
   - 导入分配给变量
-  ```element.addEventListener('click', async() => {
-  const module = await import(`./api-scripts/button-click.js`);
-  module.clickEvent();
-})
+  ```
+  element.addEventListener('click', async() => {
+     const module = await import(`./api-scripts/button-click.js`);
+     module.clickEvent();
+  })
  ```
  4. 新增Array方法
  - Array.flat()
