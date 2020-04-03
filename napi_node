@@ -1,0 +1,4 @@
+npm install node_addon_napi
+1.使用node-gyp 编译
+- node-gyp configure
+- node-gyp build
