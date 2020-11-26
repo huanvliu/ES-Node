@@ -1,0 +1,16 @@
+1. 命令行工具，可以做一写命令行交互工具，类似vue
+Commander.js - 帮助参数解析，我最常用
+optionator - 帮助参数解析，Eslint 使用
+inquirer - 常见交互式命令行
+
+chalk - 命令行输出自定义颜色
+
+relix - 发布
+
+clear - 库负责清空命令行界面
+
+figlet - 可以在命令行中以 ASCII ART 形式显示文本
+
+参考文献:
+https://www.imooc.com/article/299657
+https://www.jianshu.com/p/cd9cf12d0e31
